@@ -1,4 +1,4 @@
-package cn.rainshare.task.entity;
+package cn.rainshare.task.yiban;
 
 
 import cn.rainshare.task.dao.GetGpsDao;

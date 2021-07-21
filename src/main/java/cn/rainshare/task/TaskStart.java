@@ -1,8 +1,8 @@
 package cn.rainshare.task;
 
 import cn.rainshare.task.dao.*;
-import cn.rainshare.task.entity.TaskThread;
-import cn.rainshare.task.entity.YibanTask;
+import cn.rainshare.task.yiban.TaskThread;
+import cn.rainshare.task.yiban.YibanTask;
 import cn.rainshare.task.utils.GetDateUtil;
 import cn.rainshare.task.utils.SendMailUtil;
 import org.apache.http.client.CookieStore;
