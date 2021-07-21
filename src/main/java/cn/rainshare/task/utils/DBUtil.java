@@ -1,4 +1,4 @@
-package cn.rainshare.task.util;
+package cn.rainshare.task.utils;
 
 import java.sql.*;
 import java.util.ResourceBundle;

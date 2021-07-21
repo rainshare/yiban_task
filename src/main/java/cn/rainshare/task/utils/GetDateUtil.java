@@ -1,4 +1,4 @@
-package cn.rainshare.task.util;
+package cn.rainshare.task.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,6 +1,6 @@
 package cn.rainshare.task.dao;
 
-import cn.rainshare.task.util.DBUtil;
+import cn.rainshare.task.utils.DBUtil;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

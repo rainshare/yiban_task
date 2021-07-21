@@ -2,13 +2,12 @@ package cn.rainshare.task.entity;
 
 
 import cn.rainshare.task.dao.GetGpsDao;
-import cn.rainshare.task.util.EncryptUtil;
-import cn.rainshare.task.util.GetDateUtil;
-import cn.rainshare.task.util.HttpUtil;
+import cn.rainshare.task.utils.EncryptUtil;
+import cn.rainshare.task.utils.GetDateUtil;
+import cn.rainshare.task.utils.HttpUtil;
 import com.alibaba.fastjson.*;
 import org.apache.http.client.CookieStore;
 import org.apache.http.client.config.RequestConfig;
-import org.apache.http.impl.client.BasicCookieStore;
 import org.apache.http.impl.cookie.BasicClientCookie;
 
 import java.net.URLEncoder;

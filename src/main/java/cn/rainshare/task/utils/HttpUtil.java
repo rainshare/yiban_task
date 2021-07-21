@@ -1,4 +1,4 @@
-package cn.rainshare.task.util;
+package cn.rainshare.task.utils;
 
 import org.apache.http.Header;
 import org.apache.http.HeaderElement;

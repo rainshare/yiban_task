@@ -1,4 +1,4 @@
-package cn.rainshare.task.util;
+package cn.rainshare.task.utils;
 import javax.mail.Address;
 import javax.mail.Message;
 import javax.mail.Session;
